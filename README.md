@@ -35,3 +35,6 @@ Output: the estimated transition matrix and emission matrix on one line each in 
 
 More details here:
 https://kth.kattis.com/problems/kth.ai.hmm4
+
+# MATLAB HMM file
+This file just contains some iterative loops for the implementation of the first 3 HMMs.
