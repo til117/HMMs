@@ -4,7 +4,7 @@ Four different HMMs are implemented in C++
 
 <In extension, HMM4 (the complete algorithm) could be used to program the player class in games such as Duck Hunt.>
 
-# HMM 1 - NEXT OBSERVATION DISTRIBUTION
+# HMM 1 - Next observation distribution
 
 Input: three matrices (in this order); transition matrix, emission matrix, and initial state probability distribution. The initial state probability distribution is a row vector encoded as a matrix with only one row. Each matrix is given on a separate line with the number of rows and columns followed by the matrix elements (ordered row by row).
 Output: the emission probability distribution on a single line in the same matrix format, including the dimensions.
